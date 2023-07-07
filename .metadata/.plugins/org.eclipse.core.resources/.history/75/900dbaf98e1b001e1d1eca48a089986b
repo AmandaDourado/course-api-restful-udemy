@@ -1,0 +1,5 @@
+package com.udemy.demo.exceptions;
+
+public class CustomizedResponseEntityExceptionHandler {
+
+}

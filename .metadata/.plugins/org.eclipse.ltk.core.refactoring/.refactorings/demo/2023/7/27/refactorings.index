@@ -1,2 +1,11 @@
 1688430049744	Rename resource 'application.properties'
 1688430496005	Delete element
+1688769940507	Rename resource 'migration'
+1688769955923	Delete element
+1688769978984	Delete element
+1688769991260	Delete element
+1688770006171	Delete element
+1688770046423	Delete element
+1688770741734	Rename resource 'V1_Create_Table_Person.sql'
+1688770747497	Rename resource 'V2_Populate_Table.sql'
+1688771194549	Move folder

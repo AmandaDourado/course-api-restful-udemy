@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.udemy.demo.serialization.converter.YamlJack2HttpMesageConverter.java&apos; to &apos;YamlJackson2HttpMesageConverter.java&apos;&#x0D;&#x0A;- Original project: &apos;demo&apos;&#x0D;&#x0A;- Original element: &apos;com.udemy.demo.serialization.converter.YamlJack2HttpMesageConverter.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.udemy.demo.serialization.converter.YamlJackson2HttpMesageConverter.java&apos;" description="Rename compilation unit &apos;YamlJack2HttpMesageConverter.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.udemy.demo.serialization.converter{YamlJack2HttpMesageConverter.java" name="YamlJackson2HttpMesageConverter.java" references="false" stamp="1689806798033" version="1.0"/>
+</session>

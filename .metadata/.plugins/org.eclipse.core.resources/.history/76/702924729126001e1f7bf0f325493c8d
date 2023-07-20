@@ -1,0 +1,5 @@
+package com.udemy.demo.unittests.mapper.mocks;
+
+public class MockPerson {
+
+}

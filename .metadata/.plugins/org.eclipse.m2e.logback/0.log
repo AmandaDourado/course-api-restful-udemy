@@ -1321,3 +1321,131 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 2023-07-19 20:01:26,027 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2023-07-19 20:01:26,031 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
 2023-07-19 20:01:57,920 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:01:57,927 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:01:57,930 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:22:09,579 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy:demo:0.0.1-SNAPSHOT @ C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\pom.xml.
+2023-07-19 20:22:10,750 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 20:22:10,751 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 20:22:10,756 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:22:11,971 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.1.1/spring-hateoas-2.1.1-sources.jar
+2023-07-19 20:22:12,163 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.1.1/spring-hateoas-2.1.1-sources.jar
+2023-07-19 20:22:12,169 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:2.1.1
+2023-07-19 20:22:12,578 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:22:12,607 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:22:12,620 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:47:09,561 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:47:09,662 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:47:09,665 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:47:53,558 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:47:53,584 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:47:53,590 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:48:17,673 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:48:17,688 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:48:17,692 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:48:54,074 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:48:54,083 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:48:54,089 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:49:04,855 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:49:04,864 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:49:04,868 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:49:42,174 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:49:42,182 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:49:42,197 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:50:45,206 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:50:45,214 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:50:45,218 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:51:27,514 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:51:27,524 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:51:27,528 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:51:31,341 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:51:31,349 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:51:31,352 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:54:35,555 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy:demo:0.0.1-SNAPSHOT @ C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\pom.xml.
+2023-07-19 20:54:36,749 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 20:54:36,750 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 20:54:36,755 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:54:38,007 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:54:38,024 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:54:38,032 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:55:42,384 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy:demo:0.0.1-SNAPSHOT @ C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\pom.xml.
+2023-07-19 20:55:43,045 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 20:55:43,045 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 20:55:43,049 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:56:20,639 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemy:demo:0.0.1-SNAPSHOT @ C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\pom.xml.
+2023-07-19 20:56:21,061 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 20:56:21,061 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 20:56:21,064 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:57:09,306 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:57:09,336 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:57:09,342 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:57:39,263 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:57:39,276 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:57:39,280 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:59:09,984 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:59:09,995 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:59:10,007 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 20:59:56,893 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 20:59:56,969 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 20:59:56,979 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:00:13,714 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 21:00:13,724 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 21:00:13,727 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:01:26,878 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:01:26,879 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:01:26,881 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:02:51,056 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:02:51,057 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:02:51,061 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:03:04,075 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:03:04,075 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:03:04,078 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:03:54,090 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:03:54,090 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:03:54,093 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:05:49,677 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:05:49,677 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:05:49,680 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:06:20,633 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:06:20,634 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:06:20,636 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:06:34,386 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:06:34,387 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:06:34,390 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:07:04,826 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:07:04,826 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:07:04,829 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:07:42,693 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:07:42,694 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:07:42,696 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:08:24,481 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:08:24,481 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:08:24,486 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:09:08,204 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:09:08,204 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:09:08,207 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:09:10,221 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:09:10,222 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-07-19 21:09:10,224 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:12:01,057 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 21:12:01,072 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 21:12:01,079 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:13:09,793 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 21:13:09,802 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 21:13:09,805 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:16:06,190 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 21:16:06,199 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 21:16:06,202 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:16:10,076 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 21:16:10,084 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 21:16:10,087 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:16:12,979 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 21:16:12,986 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 21:16:12,989 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:17:19,729 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 21:17:19,735 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 21:17:19,739 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:19:16,186 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 21:19:16,213 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-07-19 21:19:16,217 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\amand\OneDrive\Documentos\Cursos\Rest e RestFul API com Spring Boot - Udemy\14\demo\src\test\resources
+2023-07-19 21:23:09,072 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-07-19 21:23:09,078 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes

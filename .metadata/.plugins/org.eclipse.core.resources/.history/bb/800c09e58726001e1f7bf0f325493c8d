@@ -1,8 +1,0 @@
-package com.udemy.demo.util;
-
-import org.springframework.http.MediaType;
-
-public class MediaType {
-
-	private static final String APPLICATION_YML = "application/x-yaml";
-}

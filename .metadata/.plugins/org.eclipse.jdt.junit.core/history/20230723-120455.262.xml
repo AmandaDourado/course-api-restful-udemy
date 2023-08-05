@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="Rerun PersonServicesTest" project="demo" tests="5" started="5" failures="0" errors="0" ignored="0">
-  <testsuite name="com.udemy.demo.unittests.mockito.services.PersonServicesTest" time="2.703" displayname="PersonServicesTest" uniqueid="[engine:junit-jupiter]/[class:com.udemy.demo.unittests.mockito.services.PersonServicesTest]">
-    <testcase name="testFindAll" classname="com.udemy.demo.unittests.mockito.services.PersonServicesTest" time="1.725" displayname="testFindAll()" uniqueid="[engine:junit-jupiter]/[class:com.udemy.demo.unittests.mockito.services.PersonServicesTest]/[method:testFindAll()]"/>
-    <testcase name="testFindById" classname="com.udemy.demo.unittests.mockito.services.PersonServicesTest" time="0.946" displayname="testFindById()" uniqueid="[engine:junit-jupiter]/[class:com.udemy.demo.unittests.mockito.services.PersonServicesTest]/[method:testFindById()]"/>
-    <testcase name="testCreate" classname="com.udemy.demo.unittests.mockito.services.PersonServicesTest" time="0.017" displayname="testCreate()" uniqueid="[engine:junit-jupiter]/[class:com.udemy.demo.unittests.mockito.services.PersonServicesTest]/[method:testCreate()]"/>
-    <testcase name="testDelete" classname="com.udemy.demo.unittests.mockito.services.PersonServicesTest" time="0.006" displayname="testDelete()" uniqueid="[engine:junit-jupiter]/[class:com.udemy.demo.unittests.mockito.services.PersonServicesTest]/[method:testDelete()]"/>
-    <testcase name="testUpdate" classname="com.udemy.demo.unittests.mockito.services.PersonServicesTest" time="0.005" displayname="testUpdate()" uniqueid="[engine:junit-jupiter]/[class:com.udemy.demo.unittests.mockito.services.PersonServicesTest]/[method:testUpdate()]"/>
-  </testsuite>
-</testrun>

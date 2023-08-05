@@ -1,5 +1,0 @@
-package com.udemy.demo.serialization.converter;
-
-public class YamlJack2HttpMesageConverter {
-
-}

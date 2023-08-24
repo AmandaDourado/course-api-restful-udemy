@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
-    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseStatus"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ControllerAdvice"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
-    <fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ExceptionHandler"/>
-    <fullyQualifiedTypeName name="org.springframework.web.context.request.WebRequest"/>
-    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
-    <fullyQualifiedTypeName name="com.udemy.demo.exceptions.ResourceNotFoundException"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="java.io.Serializable"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
-    <fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
@@ -51,7 +35,6 @@
     <fullyQualifiedTypeName name="org.mockito.Mock"/>
     <fullyQualifiedTypeName name="com.udemy.demo.repositories.PersonRepository"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="com.udemy.demo.exceptions.RequiredObjectIsNullException"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
@@ -60,4 +43,21 @@
     <fullyQualifiedTypeName name="io.swagger.v3.oas.models.OpenAPI"/>
     <fullyQualifiedTypeName name="io.swagger.v3.oas.models.info.Info"/>
     <fullyQualifiedTypeName name="io.swagger.v3.oas.models.info.License"/>
+    <fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.tags.Tag"/>
+    <fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.Operation"/>
+    <fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.responses.ApiResponse"/>
+    <fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.media.Content"/>
+    <fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.media.ArraySchema"/>
+    <fullyQualifiedTypeName name="io.swagger.v3.oas.annotations.media.Schema"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.udemy.demo.repositories.BookRepository"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.udemy.demo.controllers.BookController"/>
+    <fullyQualifiedTypeName name="com.udemy.demo.model.Book"/>
+    <fullyQualifiedTypeName name="com.udemy.demo.services.BookServices"/>
+    <fullyQualifiedTypeName name="com.udemy.demo.data.vo.v1.BookVO"/>
 </qualifiedTypeNameHistroy>

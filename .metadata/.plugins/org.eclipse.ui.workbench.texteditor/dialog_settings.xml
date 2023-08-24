@@ -10,21 +10,22 @@
 		<item key="wholeword" value="true"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="personFour"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="Person"/>
+			<item value="People"/>
 			<item value="personFour"/>
 			<item value="personOne"/>
-			<item value="Person"/>
 			<item value="PersonVO"/>
 			<item value="&quot;application/x-yaml&quot;"/>
 			<item value="_VALUE"/>
 			<item value="connector"/>
 		</list>
 		<list key="replacehistory">
+			<item value=""/>
 			<item value="personSeven"/>
 			<item value="personFour"/>
 			<item value="PersonVO"/>
-			<item value=""/>
 			<item value="MediaType.APPLICATION_YML"/>
 		</list>
 	</section>

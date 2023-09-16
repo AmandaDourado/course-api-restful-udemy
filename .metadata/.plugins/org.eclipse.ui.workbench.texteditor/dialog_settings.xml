@@ -10,19 +10,29 @@
 		<item key="wholeword" value="true"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=""/>
+		<item key="selection" value="create"/>
 		<list key="findhistory">
+			<item value="testeCreate"/>
+			<item value="create"/>
+			<item value="v1"/>
+			<item value="book"/>
+			<item value="person"/>
+			<item value="mock"/>
+			<item value="Startup"/>
 			<item value="Person"/>
+			<item value="people"/>
+			<item value="personSeven"/>
 			<item value="People"/>
 			<item value="personFour"/>
 			<item value="personOne"/>
 			<item value="PersonVO"/>
 			<item value="&quot;application/x-yaml&quot;"/>
-			<item value="_VALUE"/>
-			<item value="connector"/>
 		</list>
 		<list key="replacehistory">
 			<item value=""/>
+			<item value="book"/>
+			<item value="bookSeven"/>
+			<item value="Book"/>
 			<item value="personSeven"/>
 			<item value="personFour"/>
 			<item value="PersonVO"/>

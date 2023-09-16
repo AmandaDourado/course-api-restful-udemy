@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SwaggerIntegrationTest" project="demo" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.udemy.demo.integrationtests.swagger.SwaggerIntegrationTest" time="4.712" displayname="SwaggerIntegrationTest" uniqueid="[engine:junit-jupiter]/[class:com.udemy.demo.integrationtests.swagger.SwaggerIntegrationTest]">
+    <testcase name="shouldDisplaySwaggerUiPage" classname="com.udemy.demo.integrationtests.swagger.SwaggerIntegrationTest" time="4.712" displayname="shouldDisplaySwaggerUiPage()" uniqueid="[engine:junit-jupiter]/[class:com.udemy.demo.integrationtests.swagger.SwaggerIntegrationTest]/[method:shouldDisplaySwaggerUiPage()]"/>
+  </testsuite>
+</testrun>

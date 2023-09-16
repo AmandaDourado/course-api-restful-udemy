@@ -1,0 +1,8 @@
+package com.udemy.demo.integrationtests.testcontainers;
+
+import org.springframework.test.context.ContextConfiguration;
+
+@ContextConfiguration
+public class AbstractIntegrationTest {
+
+}

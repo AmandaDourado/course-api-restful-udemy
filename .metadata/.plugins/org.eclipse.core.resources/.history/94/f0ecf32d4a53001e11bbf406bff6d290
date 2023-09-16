@@ -1,0 +1,13 @@
+package com.udemy.demo.integrationtests.swagger;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest(webEnvironmet = SpringBootTest.WebEnvironment.DEFINED_PORT)
+class SwaggerIntegrationTest {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

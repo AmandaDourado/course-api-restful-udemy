@@ -2,10 +2,12 @@ package com.udemy.demo.config;
 
 import java.util.List;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.MediaType;
 import org.springframework.http.converter.HttpMessageConverter;
 import org.springframework.web.servlet.config.annotation.ContentNegotiationConfigurer;
+import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 import com.udemy.demo.serialization.converter.YamlJackson2HttpMesageConverter;
@@ -16,12 +18,27 @@ public class WebConfig implements WebMvcConfigurer{
 
 	private static final MediaType MEDIA_TYPE_APPLICATION_YML = MediaType.valueOf("application/x-yaml");
 	
-	
+	@Value("${cors.originPatterns:default}") 
+	private String corsOriginPatterns = "";
 
 	@Override
 	public void extendMessageConverters(List<HttpMessageConverter<?>> converters) {
 		converters.add(new YamlJackson2HttpMesageConverter());
 	}
+	
+
+	@Override
+	public void addCorsMappings(CorsRegistry registry) {
+		var allowedOrigins = corsOriginPatterns.split(",");
+		registry
+		.addMapping("/**") // todas as rotas da API
+		//.allowedMethods("GET","POST","PUT")
+		.allowedMethods("*") // permitir todos os metodos
+		.allowedOrigins(corsOriginPatterns)
+		.allowCredentials(true); // possibilitar autenticacao
+	}
+
+
 
 	@Override
 	public void configureContentNegotiation(ContentNegotiationConfigurer configurer) {

@@ -4,6 +4,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -52,6 +53,7 @@ public class BookController {
 		return service.findAll();
 	}
 	
+	
 	@GetMapping(value = "/{id}",
 			produces = {MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML,MediaType.APPLICATION_YML})
 	@Operation(summary = "Finds a Book", description = "Finds a Book", 
@@ -70,6 +72,7 @@ public class BookController {
 	public BookVO findById(@PathVariable(value = "id") Long id) {
 		return service.findById(id);
 	}
+	
 	
 	@PostMapping(
 			consumes = {MediaType.APPLICATION_JSON, MediaType.APPLICATION_XML,MediaType.APPLICATION_YML},

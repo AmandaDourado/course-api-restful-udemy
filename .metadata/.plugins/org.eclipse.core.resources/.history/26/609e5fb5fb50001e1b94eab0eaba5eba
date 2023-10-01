@@ -1,5 +1,0 @@
-package com.udemy.demo.unittests.mockito.services;
-
-public class BookServicesTest {
-
-}

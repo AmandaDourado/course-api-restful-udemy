@@ -1,5 +1,0 @@
-package com.udemy.demo.integrationtests.testcontainers;
-
-public class AbstractIntegrationTest {
-
-}
